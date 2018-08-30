@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    border-color: aqua;
+    border-style: ridge;
+    text color: darkmagenta;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #a28ae2;
+}
+.container2 {
+    border-color: aqua;
+    border-style: dotted;
+    width: 900px;
+    margin-left: 225px;
+    margin-bottom: 55px;
+
+}
